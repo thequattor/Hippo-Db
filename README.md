@@ -10,8 +10,6 @@ This restrictions allow to write a tool which has very few moving parts, and so 
 
 It also allows to switch back to a past version, in the event that the last version deployed should contain erroneous data.
 
-> Note that HippoDB is presently very much in the alpha stage.
-
 Workflow
 --------
 
